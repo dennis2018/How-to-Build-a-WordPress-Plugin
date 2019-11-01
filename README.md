@@ -11,3 +11,8 @@ The plugin we are going to make in this tutorial will help automate some of the 
 - Validate those input fields
 
 ![Image description](https://cdn.scotch.io/scotchy-uploads/2015/08/wp-cleanup-what-we-are-doing1.jpg)
+
+
+To get started, just go to the WordPress Plugin Boilerplate Generator and fill-out the form and click on the Build button.
+
+![Image description](https://www.dennismburu.tech/wp-content/uploads/2019/11/plugin-generator.png)
