@@ -1,3 +1,6 @@
+![Image description](https://img.shields.io/github/license/dennis2018/How-to-Build-a-WordPress-Plugin)  ![Image description](https://img.shields.io/github/issues/dennis2018/How-to-Build-a-WordPress-Plugin)  ![Image description](https://img.shields.io/github/forks/dennis2018/How-to-Build-a-WordPress-Plugin)  ![Image description](https://img.shields.io/github/stars/dennis2018/How-to-Build-a-WordPress-Plugin) 
+
+
 # How-to-Build-a-WordPress-Plugin
 How to Build a WordPress Plugin
 
